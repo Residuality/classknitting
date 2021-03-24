@@ -1,1 +1,1 @@
-# classknitting
+# Classification of knitting and crochet patterns
